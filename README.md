@@ -117,20 +117,6 @@
 
 </details>
 
-<details>
-  <summary>📱 Mobile</summary>
-  
-
-| Name                 | A short summary                              | Stars   | Framework |
-| -------------------- | -------------------------------------------- | --------- | --------- |
-| [Movie Recommendation System](https://github.com/saddamskst/flutter-todo-list-chat-gpt) | ToDo list generator using Chat GPT.  | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/flutter-todo-list-chat-gpt) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) |
-| [xamarin-sample-gallery](https://github.com/alexandresanlim/xamarin-sample-gallery) | A list of small apps on Xamarin.  | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/xamarin-sample-gallery) | ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=xamarin&logoColor=white) |
-
-
-</details>
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake.svg" />
@@ -141,23 +127,7 @@
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saddamskst&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamskst&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bandah-E-Ali&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bandah-E-Ali&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-
-
-###
-
----
-
-<div>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.youtube.com/@SaddamTechs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Md Saddam" height="30" width="40" /></a>
-<a href="https://instagram.com/saddamskst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Md Saddam" height="30" width="40" /></a>
-<a href="[https://www.linkedin.com/in/saddamskst](https://skst.in)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md Saddam" height="30" width="40" /></a>
-
-</p>
-
-</div>
